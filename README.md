@@ -1,3 +1,6 @@
 # food2fork_android
 
-## Android app, from test task.
+### Android app from test task.
+
+Дабы сильно не ругали, замечу, что MVP пытался реализовать впервые.
+Так же как и Realm. До этого проекта его в глаза никогда не видел (:
