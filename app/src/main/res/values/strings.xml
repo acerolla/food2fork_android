@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">application</string>
+    <string name="app_name">Food2Fork</string>
+
+    <string name="no_content_description">There is no adequate content description</string>
+    <string name="sample_text">Sample text</string>
+
+    <string name="no_recipes">There are no recipes yet ):</string>
 </resources>
